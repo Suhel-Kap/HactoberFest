@@ -1,3 +1,5 @@
+# THIS REPOSITORY IS NOW ARCHIVED
+
 ![BANNER](https://raw.githubusercontent.com/HemantSachdeva/HactoberFest/2021/assets/HactoberFest.jpg)
 
 # How to make a valid pull request and participate in HactoberFest?
